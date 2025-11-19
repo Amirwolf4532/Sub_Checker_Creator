@@ -5,7 +5,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQzFCREVYT2RZbmM3N2NIMGl1UUFP@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://87d1f4b2-83e7-4125-8d62-5d376871fd41@45.134.12.47:31203?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vt-1.ozone.ru&fp=chrome&pbk=tN1ZYDEnM0t_V59FGQSpiq56sOpDo8JZ25Epgg-Z9kg&sid=ab12cd34&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://b4fbe9de-88f4-4af7-bca0-631ff2883278@193.233.48.92:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&fp=chrome&security=reality&pbk=gFH0rutmQ8EQBMsUlWJ_eeQnkQkazATNPJvsTJnZZiY&sid=6dfeb23c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://cloud1759@cloud.whitenet.online:443?security=reality&encryption=none&pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://cloud1163@cloud.whitenet.online:443?security=reality&encryption=none&pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
