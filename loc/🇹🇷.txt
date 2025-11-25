@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?encryption=none&security=tls&sni=dl.frnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://30fdfa76-f89e-4e50-831d-d6421b1c2dde@83.217.9.210:62178?security=reality&encryption=none&pbk=zTn523BtZw4lI_vCGidIF8WTb8xZ-mUOoK8nCXnIAXk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=eeee2c2e8a38b0fb#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://2a30e90e-02be-4602-8c57-308eb4feff5b@tr.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
