@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://a4d62ac0-fd19-4d7d-b65f-5ac8f0323372@est01-ss01.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=86e999a2cdc2#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
