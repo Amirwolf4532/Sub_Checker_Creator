@@ -4,6 +4,3 @@
 
 vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJwb3J0IjoiNDMwNjMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6Im5vbmUiLCJwcyI6ImhhbWVkcDcxOjrwn4ey8J+HviJ9
 vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJwb3J0IjoiODYxMyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+In0
-vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fssxboqws&host=639003543253503779.supra-amsit.info&sni=639003543253503779.supra-amsit.info&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003543253503779.supra-amsit.info&type=ws&host=639003543253503779.supra-amsit.info&path=/ssxboqws#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?encryption=none&type=ws&host=639003543253503779.supra-amsit.info&path=%2Fssxboqws&security=tls&sni=639003543253503779.supra-amsit.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
