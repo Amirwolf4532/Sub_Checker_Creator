@@ -5,5 +5,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
