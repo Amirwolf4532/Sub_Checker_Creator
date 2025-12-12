@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.98.101:1488?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
