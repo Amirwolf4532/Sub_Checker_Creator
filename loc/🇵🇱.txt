@@ -5,5 +5,3 @@
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://bf8ce0b2-71f3-4237-81eb-1dfeb66bd183@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://bf8ce0b2-71f3-4237-81eb-1dfeb66bd183@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?security=none&type=ws&path=%2F&host=sinavm.ir&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://bf8ce0b2-71f3-4237-81eb-1dfeb66bd183@alhilal.com:443?encryption=none&type=ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&path=%2Fws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
