@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://9b40d859-e833-42eb-ba99-ebcad479997d@freeyx.cloudflare88.eu.org:443?type=ws&encryption=none&flow=&host=oracle-id-batam.064288.xyz&path=%2Fannouncement%3Fed%3D2048&security=tls&sni=oracle-id-batam.064288.xyz&fp=random&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
