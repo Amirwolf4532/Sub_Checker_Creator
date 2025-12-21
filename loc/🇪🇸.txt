@@ -4,3 +4,5 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://f6c8a142-20b3-4c52-814e-9c15202cb6fd@89.208.87.217:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://f6c8a142-20b3-4c52-814e-9c15202cb6fd@158.160.199.84:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
