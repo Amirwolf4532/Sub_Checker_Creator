@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@45.12.136.48:443/?type=tcp&encryption=none&flow=&sni=mirror.yandex.ru&fp=firefox&security=reality&pbk=E-fIlniARgucl-Y8wctxQr4wPuDibRYnOCHCYAEVbws&sid=821610e2#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
