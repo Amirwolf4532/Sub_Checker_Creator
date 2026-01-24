@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d9738de2-1b25-407f-9096-fcb6ddc0aa86@85.133.204.132:80?type=ws&encryption=none&path=%2F&host=test.sigmagames.shop&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
+vless://e8ec9972-fd55-4508-885a-739be724921e@85.133.204.186:5757?path=%2F&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
 vless://e8ec9972-fd55-4508-885a-739be724921e@85.133.204.186:5757?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
