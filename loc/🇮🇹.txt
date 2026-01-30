@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
