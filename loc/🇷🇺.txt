@@ -3,4 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuS29obmUwN1ZyeEItbnE0M2N4enM3VnU5Tm5wNEpYWQ==@ru1.clear-vpn.org:504#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://id8114764549@109.172.87.92:443?security=reality&encryption=none&pbk=0A5HG2mLQuxhnmuc12J2VJiXKS8KlQrSN0gnm42kOUE&headerType=none&fp=chrome&spx=%2F0Fuu4AeB8XffLM2&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=d817#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNGVjNjZkODEtOTU2NS00ZDhlLWFlNTgtMmJhY2ZkZTk1ZjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6ImhhbWVkcDcxOjrwn4e38J+HuiIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?encryption=none&type=httpupgrade&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
