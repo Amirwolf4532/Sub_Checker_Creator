@@ -4,3 +4,4 @@
 
 vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=/&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=/&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&sni=yandex.ru&sid=6d38c1f30520&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@77.73.67.94:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
