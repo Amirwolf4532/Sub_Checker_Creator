@@ -4,3 +4,4 @@
 
 ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@ru.safepass.click:442#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://bda109ea-efab-44d2-9fa4-25acecd448a1@185.147.27.36:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A1KLk_6e6jCWZDDWuuzojzSPxQELc2jqK1hHU3ooG34&security=reality&sid=874db238&sni=vk.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l12.l-itx.info:7443?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
