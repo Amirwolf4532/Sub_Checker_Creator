@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=random&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://74305d4a-ff94-4bb4-9ef7-e9147f1f46f6@195.63.131.225:25816?encryption=none&fp=chrome&pbk=S1Mrx2apOe3B9kLUJcQ4D2-gAB7BG_dAcQJoanurIDg&security=reality&sid=41138214b11aa9&sni=www.yahoo.com&spx=/fbDPiECaUCSFwp3&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
