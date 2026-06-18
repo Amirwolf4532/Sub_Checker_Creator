@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B7
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B6
