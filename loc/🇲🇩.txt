@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://3d6518df-cab2-4840-83fa-a0d0759d1309@kzt-t14.plugvpn.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kzt-t14.plugvpn.ru&fp=chrome&pbk=Y6bmuGtVRQXa89gLGIXxOtl1pudIe3LCE6neY6kG_V4&sid=91fce232563631ab&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
