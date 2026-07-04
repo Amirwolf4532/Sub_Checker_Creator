@@ -6,4 +6,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjE0OS41
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQiOiI0MzA2MyIsImlkIjoiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjQ3LjI1MC40NS4yMzQiLCJwYXRoIjoiL2Fya2kiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
 vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
 vless://SoonTeam@208.84.103.60:443?encryption=none&type=ws&host=anten.ir&path=/telegram@SoonTeam&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vless://SoonTeam@sexi.carderrr.com:443?encryption=none&type=ws&host=anten.ir&path=/telegram@SoonTeam&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
