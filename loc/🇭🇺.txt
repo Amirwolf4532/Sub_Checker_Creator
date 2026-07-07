@@ -4,3 +4,4 @@
 
 trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&headerType=none&fp=android&allowinsecure=0&type=tcp&sni=hu2.vpnjantit.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
 trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?sni=hu2.vpnjantit.com&peer=hu2.vpnjantit.com&security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
+vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.49:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
