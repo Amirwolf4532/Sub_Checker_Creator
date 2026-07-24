@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8cc8bedd-5103-4d22-a79c-a88f1160055a@172.67.174.37:8880?encryption=none&type=ws&host=red-unit-60bc.165-1dd.workers.dev&path=/pyip%3DProxyIP.KR.CMLiussss.net&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
+vless://d2213442-94d7-4143-8398-082efde2174e@104.16.158.255:443?encryption=none&type=ws&host=nova-atlas-core-5a95.rajabyshokofeh3-bcc.workers.dev&path=%2F&security=tls&fp=chrome&sni=nova-atlas-core-5a95.rajabyshokofeh3-bcc.workers.dev#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@104.17.100.120:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=winfl&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=winfl-mitivpn-----mitivpn.app-cloud.ir&type=ws&allowInsecure=1&sni=w-inf-l-mitivpn-----mitivpn.app-cloud.ir#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
