@@ -19,6 +19,5 @@ vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?encryption=none&typ
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&type=ws&host=speed.dulacloud.store&path=/dula&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?encryption=none&type=ws&host=speed.dulacloud.store&path=/dula&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@104.21.30.160:80?encryption=none&type=ws&host=sahanwickramasinghevip.shop&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&type=ws&host=shalana.xyz&path=%2Fshalana&security=tls&sni=shalana.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?encryption=none&type=ws&host=speed.dulacloud.store&path=%2Fdula&security=tls&fp=chrome&sni=speed.dulacloud.store#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
