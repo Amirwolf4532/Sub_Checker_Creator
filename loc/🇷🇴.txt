@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443?flow=xtls-rprx-vision&security=reality&sni=rm2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&insecure=1&allowInsecure=1&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
