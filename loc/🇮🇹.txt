@@ -11,4 +11,3 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=OV-Italy1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
