@@ -1,9 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@ae.209qu4892fh8934.live:443?security=reality&type=grpc&mode=gun&serviceName=livestreamcontent&alpn=h2&sni=irangov.ir&fp=firefox&sid=5c93a30dbabbc444&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
